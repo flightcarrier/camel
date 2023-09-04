@@ -54,7 +54,7 @@
         <dependency>
             <groupId>io.debezium</groupId>
             <artifactId>debezium-embedded</artifactId>
-            <version>${debezium-version}</version>
+            <version>2.4.0.Alpha2</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.slf4j</groupId>

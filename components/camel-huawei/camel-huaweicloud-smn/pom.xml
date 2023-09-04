@@ -54,12 +54,12 @@
         <dependency>
             <groupId>com.huaweicloud.sdk</groupId>
             <artifactId>huaweicloud-sdk-core</artifactId>
-            <version>${huaweicloud-sdk-version}</version>
+            <version>3.1.53</version>
         </dependency>
         <dependency>
             <groupId>com.huaweicloud.sdk</groupId>
             <artifactId>huaweicloud-sdk-smn</artifactId>
-            <version>${huaweicloud-sdk-version}</version>
+            <version>3.1.53</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
